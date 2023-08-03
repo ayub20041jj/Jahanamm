@@ -80,7 +80,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/its-star-boi/ShizukaXMusic",
+        "value": "https://github.com/ayub20041jj/jahanamm",
         "required": true
       },
       "UPSTREAM_BRANCH": {
